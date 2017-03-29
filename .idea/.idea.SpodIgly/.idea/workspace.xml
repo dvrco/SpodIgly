@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="030ea2c3-dcb0-4434-b88b-b286f959ea46" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_StoreLayout.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Shared/_StoreLayout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <marker date="1490789720000" expanded="true" signature="1:24" ph="@..." />
+                <marker date="1490789720000" expanded="true" signature="42:1505" ph="&lt;html.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="86:291" ph="&lt;head.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="292:1497" ph="&lt;body.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="299:705" ph="&lt;header.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="312:552" ph="&lt;div.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="352:436" ph="&lt;a.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="446:541" ph="&lt;a.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="557:695" ph="&lt;a.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="707:737" ph="&lt;div.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="739:1434" ph="&lt;footer.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="752:1230" ph="&lt;nav.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="766:1219" ph="&lt;ul.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="1235:1340" ph="&lt;div.../&gt;" />
+                <marker date="1490789720000" expanded="true" signature="1346:1424" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Album.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/Models/Album.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="48" />
+              <folding>
+                <marker date="1490791647000" expanded="true" signature="6:37" ph="..." />
+                <marker date="1490791647000" expanded="true" signature="64:611" ph="{...}" />
+                <marker date="1490791647000" expanded="true" signature="89:609" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Genre.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/Models/Genre.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <marker date="1490791686000" expanded="true" signature="60:342" ph="{...}" />
+                <marker date="1490791686000" expanded="true" signature="85:340" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Order.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/Models/Order.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              <folding>
+                <marker date="1490792781000" expanded="true" signature="6:47" ph="..." />
+                <marker date="1490792781000" expanded="true" signature="74:1702" ph="{...}" />
+                <marker date="1490792781000" expanded="true" signature="99:1551" ph="{...}" />
+                <marker date="1490792781000" expanded="true" signature="549:633" ph="/* [Required(ErrorMessage = &quot;Nie wprowadzono adresu&quot;)] ... */" />
+                <marker date="1490792781000" expanded="true" signature="911:1065" ph="[public]" />
+                <marker date="1490792781000" expanded="true" signature="912:1049" ph="/* StringLength(20)] ... */" />
+                <marker date="1490792781000" expanded="true" signature="1110:1241" ph="/* [Required(ErrorMessage = &quot;Wprowadź swój adres e-mail.&quot;)] ... */" />
+                <marker date="1490792781000" expanded="true" signature="1582:1700" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StoreContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/DAL/StoreContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <marker date="1490793605000" expanded="true" signature="6:48" ph="..." />
+                <marker date="1490793605000" expanded="true" signature="72:410" ph="{...}" />
+                <marker date="1490793605000" expanded="true" signature="116:408" ph="{...}" />
+                <marker date="1490793605000" expanded="true" signature="381:402" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <marker date="1490793639000" expanded="true" signature="6:176" ph="..." />
+                <marker date="1490793639000" expanded="true" signature="208:705" ph="{...}" />
+                <marker date="1490793639000" expanded="true" signature="255:703" ph="{...}" />
+                <marker date="1490793639000" expanded="true" signature="352:580" ph="{...}" />
+                <marker date="1490793639000" expanded="true" signature="640:695" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Web.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/Web.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/App.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderItem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/Models/OrderItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1490792022000" expanded="true" signature="25:383" ph="{...}" />
+                <marker date="1490792022000" expanded="true" signature="54:381" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Onas.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Home/Onas.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <marker date="1419286380000" expanded="true" signature="1:84" ph="@..." />
+                <marker date="1419286380000" expanded="true" signature="101:3282" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpodIgly/Prototype/Main.html" />
+        <option value="$PROJECT_DIR$/SpodIgly/Models/TModel.cs" />
+        <option value="$PROJECT_DIR$/SpodIgly/Views/_ViewStart.cshtml" />
+        <option value="$PROJECT_DIR$/SpodIgly/Views/Home/Index2.cshtml" />
+        <option value="$PROJECT_DIR$/SpodIgly/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SpodIgly/Controllers/WebControl1.ascx" />
+        <option value="$PROJECT_DIR$/SpodIgly/Controllers/StoreController.cs" />
+        <option value="$PROJECT_DIR$/SpodIgly/Views/Home/Kontakt.cshtml" />
+        <option value="$PROJECT_DIR$/SpodIgly/GlimpseSecurityPolicy.cs" />
+        <option value="$PROJECT_DIR$/SpodIgly/Views/Web.config" />
+        <option value="$PROJECT_DIR$/SpodIgly/Views/Home/Index.mobile.cshtml" />
+        <option value="$PROJECT_DIR$/SpodIgly/App_Start/RouteConfig.cs" />
+        <option value="$PROJECT_DIR$/SpodIgly/Views/Shared/_StoreLayout.cshtml" />
+        <option value="$PROJECT_DIR$/SpodIgly/Models/Album.cs" />
+        <option value="$PROJECT_DIR$/SpodIgly/Models/Genre.cs" />
+        <option value="$PROJECT_DIR$/SpodIgly/Models/OrderItem.cs" />
+        <option value="$PROJECT_DIR$/SpodIgly/Models/Order.cs" />
+        <option value="$PROJECT_DIR$/SpodIgly/Web.config" />
+        <option value="$PROJECT_DIR$/SpodIgly/DAL/StoreContext.cs" />
+        <option value="$PROJECT_DIR$/SpodIgly/Controllers/HomeController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpodIgly (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpodIgly" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpodIgly (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpodIgly" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAL" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpodIgly (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpodIgly" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="SpodIgly&#9;FILE&#9;file:///Users/vellyezz/RiderProjects/SpodIgly/SpodIgly/SpodIgly.csproj&#10;mobile&#9;FILE&#9;file:///Users/vellyezz/RiderProjects/SpodIgly/SpodIgly/Content/Site.Mobile.css&#10;web&#9;FILE&#9;file:///Users/vellyezz/RiderProjects/SpodIgly/SpodIgly/Views/Web.config&#10;ro&#9;null&#9;null" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SpodIgly/SpodIgly.csproj" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5001" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SpodIgly" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="030ea2c3-dcb0-4434-b88b-b286f959ea46" name="Default" comment="" />
+      <created>1490734795435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490734795435</updated>
+      <workItem from="1490734797026" duration="14792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14792000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.4978701" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34383562" sideWeight="0.5145396" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.4978701" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15049505" sideWeight="0.4914803" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.49361023" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45445544" sideWeight="0.48546043" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16719915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871288" sideWeight="0.49254525" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Content/Site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Content/Site-prototype.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Global.asax">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Prototype/Main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Controllers/WebControl1.ascx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="48" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Home/Index2.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/GlimpseSecurityPolicy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Global.asax.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1490734804000" expanded="true" signature="6:88" ph="..." />
+            <marker date="1490734804000" expanded="true" signature="108:403" ph="{...}" />
+            <marker date="1490734804000" expanded="true" signature="152:401" ph="{...}" />
+            <marker date="1490734804000" expanded="true" signature="201:395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Home/Index.mobile.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Content/Site.Mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/SpodIgly.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-699">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="48" lean-forward="false" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+          <folding>
+            <marker date="1490770573000" expanded="true" signature="0:55" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/App_Start/WebApiConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490734804000" expanded="true" signature="42:481" ph="{...}" />
+            <marker date="1490734804000" expanded="true" signature="81:479" ph="{...}" />
+            <marker date="1490734804000" expanded="true" signature="149:473" ph="{...}" />
+            <marker date="1490734804000" expanded="true" signature="172:240" ph="/* Web API configuration and services ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/App_Start/RouteConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <marker date="1490789154000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1490789154000" expanded="true" signature="67:1068" ph="{...}" />
+            <marker date="1490789154000" expanded="true" signature="98:1066" ph="{...}" />
+            <marker date="1490789154000" expanded="true" signature="170:1060" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Controllers/StoreController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <marker date="1490773863000" expanded="true" signature="6:133" ph="..." />
+            <marker date="1490773863000" expanded="true" signature="165:503" ph="{...}" />
+            <marker date="1490773863000" expanded="true" signature="213:501" ph="{...}" />
+            <marker date="1490773863000" expanded="true" signature="255:302" ph="{...}" />
+            <marker date="1490773863000" expanded="true" signature="347:394" ph="{...}" />
+            <marker date="1490773863000" expanded="true" signature="446:493" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Home/Regulamin.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1419281162000" expanded="true" signature="1:89" ph="@..." />
+            <marker date="1419281162000" expanded="true" signature="111:545" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Home/Wysylka.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1419286306000" expanded="true" signature="1:87" ph="@..." />
+            <marker date="1419286306000" expanded="true" signature="107:3575" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <marker date="1490771881000" expanded="true" signature="1:40" ph="@..." />
+            <marker date="1490771881000" expanded="true" signature="43:2090" ph="&lt;nav.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="79:1987" ph="&lt;ul.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="92:237" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="109:223" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="246:389" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="263:375" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="398:552" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="415:538" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="561:708" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="578:694" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="717:860" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="734:846" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="869:1023" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="886:1009" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1032:1177" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1049:1163" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1186:1335" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1203:1321" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1344:1490" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1361:1476" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1499:1649" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1516:1635" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1658:1817" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1675:1803" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1826:1977" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1843:1963" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="1992:2083" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2092:3691" ph="&lt;section.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2106:3680" ph="&lt;ul.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2167:2662" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2184:2648" ph="&lt;article.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2210:2329" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2346:2625" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2534:2604" ph="&lt;h1.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2671:3166" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2688:3152" ph="&lt;article.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2714:2833" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="2850:3129" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3038:3108" ph="&lt;h1.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3175:3670" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3192:3656" ph="&lt;article.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3218:3337" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3354:3633" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3542:3612" ph="&lt;h1.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3693:5313" ph="&lt;section.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3707:5302" ph="&lt;ul.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3768:4270" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3785:4256" ph="&lt;article.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3811:3930" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="3947:4233" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4142:4212" ph="&lt;h1.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4279:4781" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4296:4767" ph="&lt;article.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4322:4441" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4458:4744" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4653:4723" ph="&lt;h1.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4790:5292" ph="&lt;li.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4807:5278" ph="&lt;article.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4833:4952" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="4969:5255" ph="&lt;a.../&gt;" />
+            <marker date="1490771881000" expanded="true" signature="5164:5234" ph="&lt;h1.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Home/Kontakt.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <marker date="1490774648000" expanded="true" signature="0:86" ph="@..." />
+            <marker date="1490774648000" expanded="true" signature="113:920" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Home/Onas.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <marker date="1419286380000" expanded="true" signature="1:84" ph="@..." />
+            <marker date="1419286380000" expanded="true" signature="101:3282" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Views/Shared/_StoreLayout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1490789720000" expanded="true" signature="1:24" ph="@..." />
+            <marker date="1490789720000" expanded="true" signature="42:1505" ph="&lt;html.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="86:291" ph="&lt;head.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="292:1497" ph="&lt;body.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="299:705" ph="&lt;header.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="312:552" ph="&lt;div.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="352:436" ph="&lt;a.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="446:541" ph="&lt;a.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="557:695" ph="&lt;a.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="707:737" ph="&lt;div.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="739:1434" ph="&lt;footer.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="752:1230" ph="&lt;nav.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="766:1219" ph="&lt;ul.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="1235:1340" ph="&lt;div.../&gt;" />
+            <marker date="1490789720000" expanded="true" signature="1346:1424" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Models/TModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Models/Album.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="48" />
+          <folding>
+            <marker date="1490791647000" expanded="true" signature="6:37" ph="..." />
+            <marker date="1490791647000" expanded="true" signature="64:611" ph="{...}" />
+            <marker date="1490791647000" expanded="true" signature="89:609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Models/Genre.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <marker date="1490791686000" expanded="true" signature="60:342" ph="{...}" />
+            <marker date="1490791686000" expanded="true" signature="85:340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Models/OrderItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1490792022000" expanded="true" signature="25:383" ph="{...}" />
+            <marker date="1490792022000" expanded="true" signature="54:381" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Models/Order.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <marker date="1490792781000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1490792781000" expanded="true" signature="74:1702" ph="{...}" />
+            <marker date="1490792781000" expanded="true" signature="99:1551" ph="{...}" />
+            <marker date="1490792781000" expanded="true" signature="549:633" ph="/* [Required(ErrorMessage = &quot;Nie wprowadzono adresu&quot;)] ... */" />
+            <marker date="1490792781000" expanded="true" signature="911:1065" ph="[public]" />
+            <marker date="1490792781000" expanded="true" signature="912:1049" ph="/* StringLength(20)] ... */" />
+            <marker date="1490792781000" expanded="true" signature="1110:1241" ph="/* [Required(ErrorMessage = &quot;Wprowadź swój adres e-mail.&quot;)] ... */" />
+            <marker date="1490792781000" expanded="true" signature="1582:1700" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/App.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/DAL/StoreContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1490793605000" expanded="true" signature="6:48" ph="..." />
+            <marker date="1490793605000" expanded="true" signature="72:410" ph="{...}" />
+            <marker date="1490793605000" expanded="true" signature="116:408" ph="{...}" />
+            <marker date="1490793605000" expanded="true" signature="381:402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpodIgly/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1490793639000" expanded="true" signature="6:176" ph="..." />
+            <marker date="1490793639000" expanded="true" signature="208:705" ph="{...}" />
+            <marker date="1490793639000" expanded="true" signature="255:703" ph="{...}" />
+            <marker date="1490793639000" expanded="true" signature="352:580" ph="{...}" />
+            <marker date="1490793639000" expanded="true" signature="640:695" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
