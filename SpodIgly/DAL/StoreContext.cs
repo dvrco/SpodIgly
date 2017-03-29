@@ -11,7 +11,7 @@ namespace SpodIgly.DAL
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderItem> OrderItems { get; set; }
 
-        public StoreContext() : base("StoreContext")
+        public StoreContext() : base("")
         {
 
         }

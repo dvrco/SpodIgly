@@ -30,3 +30,5 @@
 /Users/vellyezz/RiderProjects/SpodIgly/SpodIgly/bin/Glimpse.NLog.dll
 /Users/vellyezz/RiderProjects/SpodIgly/SpodIgly/bin/NLog.dll
 /Users/vellyezz/RiderProjects/SpodIgly/SpodIgly/bin/NLog.xml
+C:\Users\vellyezz\Documents\Visual Studio 2015\Projects\SpodIgly\SpodIgly\obj\Debug\SpodIgly.csprojResolveAssemblyReference.cache
+C:\Users\vellyezz\Documents\Visual Studio 2015\Projects\SpodIgly\SpodIgly\obj\Debug\SpodIgly.dll
